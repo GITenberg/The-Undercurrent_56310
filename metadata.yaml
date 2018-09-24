@@ -1,5 +1,5 @@
 _repo: The-Undercurrent_56310
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Yohn, F. C. (Frederick Coffay)
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '26457'
     url: http://www.gutenberg.org/2009/agents/26457
     wikipedia: http://en.wikipedia.org/wiki/Frederick_Coffay_Yohn
+covers:
+- cover_type: archival
+  image_path: 56310-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Grant, Robert
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2515
     wikipedia: http://en.wikipedia.org/wiki/Robert_Grant_%28novelist%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56310#The-Undercurrent
 gutenberg_issued: '2018-01-04'
 gutenberg_type: Text
 identifiers:
